@@ -1,3 +1,11 @@
-#heading{
-    color: black;
-}
+
+body {
+    margin: 5% auto; background: #1a1a1a; color:rgb(226, 226, 226); color: #bebebe; 
+    font-family: "Segoe UI", Roboto, Helvetica, Arial, sans-serif; 
+    font-size: 16px; line-height: 1.8; text-shadow: 0 1px 0 #999999; max-width: 73%;}
+code {
+    background: white;}
+a {
+    border-bottom: 1px solid #bebebe; color: #bebebe; text-decoration: none;}
+a:hover {
+    border-bottom: 0;}
